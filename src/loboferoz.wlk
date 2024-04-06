@@ -25,8 +25,7 @@ object feroz{
 	}
 	
 	method soplar(casa){
-		peso = peso - casa.resistencia()
-		peso = 0.max(peso)
+		peso = 0.max(peso - casa.resistencia())
 	}
 }
 
