@@ -80,3 +80,4 @@ object casaDeLadrillo{
 	method resistencia() = (2 * cantLadrillos) + (cantChanchitos * chanchito.cuantoPesa())
 }
 
+kjsdhfksjafksajgfskahjgfkahgfakhgfsa
